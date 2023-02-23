@@ -10,5 +10,5 @@ Sistema desarrollado para el Centro de Comunicaciones SDN, con el objetivo de ay
     - https://developer.cisco.com/site/neXt/learn/
 
 
-<img src="Img/nextui.gif"> </img>
-<img src="Img/Escudo.jpeg"> </img>
+<img src="img/NextUI.gif"> </img>
+<img src="img/Escudo.jpeg"> </img>

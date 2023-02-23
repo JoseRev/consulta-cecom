@@ -9,6 +9,6 @@ Sistema desarrollado para el Centro de Comunicaciones SDN, con el objetivo de ay
     - https://github.com/NeXt-UI/next-site/tree/master/example-page-generator (descargar y abrir codigos)
     - https://developer.cisco.com/site/neXt/learn/
 
-
-<img src="img/nextui.gif" style="display: block; margin-left: auto; margin-right: auto;"> </img>
+<p style="padding-left: 160px;">
+<img src="img/nextui.gif" > </img></p>
 <img src="img/Escudo.jpeg"> </img>
